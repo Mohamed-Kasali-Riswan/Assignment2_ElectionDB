@@ -9,7 +9,9 @@ The system consists of the following tables:
 
 Stores information about political parties and their leaders.
 
-**Columns:**  party_id: Unique identifier for the party
+**Columns:**  
+
+              party_id: Unique identifier for the party
 
               party_name: Name of the party (Unique)
 
@@ -20,6 +22,7 @@ Stores information about political parties and their leaders.
 Manages geographical data for districts, thoguthis, and wards.
 
 **Columns:**
+
               region_id: Unique identifier for the region
 
               district: Name of the district
